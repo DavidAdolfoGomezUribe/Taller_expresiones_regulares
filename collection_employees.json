@@ -1,0 +1,85 @@
+[
+    {
+        "_id": 1,
+        "nombre_completo": {
+        "nombre": "Ana",
+        "apellido": "Pérez"
+        },
+        "cargo": "moderador",
+        "rol": "admin",
+        "correo": "ana.perez@tuapp.com",
+        "contraseña": "hashed_password_bcrypt",
+        "fecha_de_vinculacion": { "$date": "2024-11-01T00:00:00Z" },
+        "activo": true,
+        "permisos": [
+        "gestionar_medios",
+        "ver_pagos",
+        "responder_soporte"
+        ]
+    },
+    {
+        "_id": 2,
+        "nombre_completo": {
+        "nombre": "Luis",
+        "apellido": "Gómez"
+        },
+        "cargo": "atención al cliente",
+        "rol": "soporte",
+        "correo": "luis.gomez@tuapp.com",
+        "contraseña": "hashed_password_bcrypt",
+        "fecha_de_vinculacion": { "$date": "2024-12-10T00:00:00Z" },
+        "activo": true,
+        "permisos": [
+        "responder_soporte",
+        "gestionar_devoluciones"
+        ]
+    },
+    {
+        "_id": 3,
+        "nombre_completo": {
+        "nombre": "María",
+        "apellido": "Rodríguez"
+        },
+        "cargo": "finanzas",
+        "rol": "analista",
+        "correo": "maria.rodriguez@tuapp.com",
+        "contraseña": "hashed_password_bcrypt",
+        "fecha_de_vinculacion": { "$date": "2025-01-15T00:00:00Z" },
+        "activo": true,
+        "permisos": [
+        "ver_pagos"
+        ]
+    },
+    {
+        "_id": 4,
+        "nombre_completo": {
+        "nombre": "Carlos",
+        "apellido": "Mendoza"
+        },
+        "cargo": "editor de medios",
+        "rol": "editor",
+        "correo": "carlos.mendoza@tuapp.com",
+        "contraseña": "hashed_password_bcrypt",
+        "fecha_de_vinculacion": { "$date": "2025-02-05T00:00:00Z" },
+        "activo": true,
+        "permisos": [
+        "gestionar_medios"
+        ]
+    },
+    {
+        "_id": 5,
+        "nombre_completo": {
+        "nombre": "Sofía",
+        "apellido": "López"
+        },
+        "cargo": "asistente de soporte",
+        "rol": "soporte",
+        "correo": "sofia.lopez@tuapp.com",
+        "contraseña": "hashed_password_bcrypt",
+        "fecha_de_vinculacion": { "$date": "2025-03-20T00:00:00Z" },
+        "activo": false,
+        "permisos": [
+        "responder_soporte"
+        ]
+    }
+]

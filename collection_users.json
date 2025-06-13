@@ -1,0 +1,362 @@
+[
+    {
+        "_id": 1,
+        "nombre_completo": {
+        "nombre": "Carlos",
+        "apellido": "Ramírez"
+        },
+        "alias": "carlitos42",
+        "correo": "carlos@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1q8m35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": true,
+        "monto": 0.04,
+        "nfts": [1]
+        },
+        "reseñas": [1],
+        "fecha_creacion": "2025-06-13T10:00:00Z"
+    },
+    {
+        "_id": 2,
+        "nombre_completo": {
+        "nombre": "María",
+        "apellido": "González"
+        },
+        "alias": "mariag",
+        "correo": "maria.g@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1q9n35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": true,
+        "monto": 0.15,
+        "nfts": [2, 3]
+        },
+        "reseñas": [2, 3],
+        "fecha_creacion": "2025-06-12T09:30:00Z"
+    },
+    {
+        "_id": 3,
+        "nombre_completo": {
+        "nombre": "Juan",
+        "apellido": "Pérez"
+        },
+        "alias": "juanp",
+        "correo": "juan.perez@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1q7m35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": false,
+        "monto": 0.0,
+        "nfts": []
+        },
+        "reseñas": [],
+        "fecha_creacion": "2025-06-11T14:15:00Z"
+    },
+    {
+        "_id": 4,
+        "nombre_completo": {
+        "nombre": "Ana",
+        "apellido": "Martínez"
+        },
+        "alias": "anam",
+        "correo": "ana.m@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1q6m35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": true,
+        "monto": 1.25,
+        "nfts": [4]
+        },
+        "reseñas": [4],
+        "fecha_creacion": "2025-06-10T11:20:00Z"
+    },
+    {
+        "_id": 5,
+        "nombre_completo": {
+        "nombre": "Luis",
+        "apellido": "Rodríguez"
+        },
+        "alias": "luisr",
+        "correo": "luis.rod@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1q5m35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": true,
+        "monto": 0.75,
+        "nfts": [5, 6]
+        },
+        "reseñas": [5],
+        "fecha_creacion": "2025-06-09T16:45:00Z"
+    },
+    {
+        "_id": 6,
+        "nombre_completo": {
+        "nombre": "Laura",
+        "apellido": "Sánchez"
+        },
+        "alias": "lauras",
+        "correo": "laura.s@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1q4m35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": false,
+        "monto": 0.0,
+        "nfts": []
+        },
+        "reseñas": [],
+        "fecha_creacion": "2025-06-08T13:10:00Z"
+    },
+    {
+        "_id": 7,
+        "nombre_completo": {
+        "nombre": "Pedro",
+        "apellido": "López"
+        },
+        "alias": "pedrol",
+        "correo": "pedro.l@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1q3m35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": true,
+        "monto": 2.50,
+        "nfts": [7]
+        },
+        "reseñas": [6, 7],
+        "fecha_creacion": "2025-06-07T10:25:00Z"
+    },
+    {
+        "_id": 8,
+        "nombre_completo": {
+        "nombre": "Sofía",
+        "apellido": "Hernández"
+        },
+        "alias": "sofiah",
+        "correo": "sofia.h@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1q2m35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": true,
+        "monto": 0.30,
+        "nfts": [8, 9]
+        },
+        "reseñas": [8],
+        "fecha_creacion": "2025-06-06T15:50:00Z"
+    },
+    {
+        "_id": 9,
+        "nombre_completo": {
+        "nombre": "Diego",
+        "apellido": "Díaz"
+        },
+        "alias": "diegod",
+        "correo": "diego.d@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1q1m35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": false,
+        "monto": 0.0,
+        "nfts": []
+        },
+        "reseñas": [],
+        "fecha_creacion": "2025-06-05T12:15:00Z"
+    },
+    {
+        "_id": 10,
+        "nombre_completo": {
+        "nombre": "Elena",
+        "apellido": "Moreno"
+        },
+        "alias": "elenam",
+        "correo": "elena.m@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1q0m35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": true,
+        "monto": 5.00,
+        "nfts": [10]
+        },
+        "reseñas": [9, 10],
+        "fecha_creacion": "2025-06-04T09:40:00Z"
+    },
+    {
+        "_id": 11,
+        "nombre_completo": {
+        "nombre": "Javier",
+        "apellido": "Álvarez"
+        },
+        "alias": "javiera",
+        "correo": "javier.a@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1qzm35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": true,
+        "monto": 0.60,
+        "nfts": [11, 12]
+        },
+        "reseñas": [11],
+        "fecha_creacion": "2025-06-03T17:05:00Z"
+    },
+    {
+        "_id": 12,
+        "nombre_completo": {
+        "nombre": "Carmen",
+        "apellido": "Romero"
+        },
+        "alias": "carmenr",
+        "correo": "carmen.r@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1qym35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": false,
+        "monto": 0.0,
+        "nfts": []
+        },
+        "reseñas": [],
+        "fecha_creacion": "2025-06-02T14:30:00Z"
+    },
+    {
+        "_id": 13,
+        "nombre_completo": {
+        "nombre": "Ricardo",
+        "apellido": "Gutiérrez"
+        },
+        "alias": "ricardog",
+        "correo": "ricardo.g@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1qxm35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": true,
+        "monto": 3.20,
+        "nfts": [13]
+        },
+        "reseñas": [12, 13],
+        "fecha_creacion": "2025-06-01T11:55:00Z"
+    },
+    {
+        "_id": 14,
+        "nombre_completo": {
+        "nombre": "Isabel",
+        "apellido": "Jiménez"
+        },
+        "alias": "isabelj",
+        "correo": "isabel.j@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1qwm35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": true,
+        "monto": 0.25,
+        "nfts": [14, 15]
+        },
+        "reseñas": [14],
+        "fecha_creacion": "2025-05-31T09:20:00Z"
+    },
+    {
+        "_id": 15,
+        "nombre_completo": {
+        "nombre": "Fernando",
+        "apellido": "Navarro"
+        },
+        "alias": "fernandon",
+        "correo": "fernando.n@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1qvm35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": false,
+        "monto": 0.0,
+        "nfts": []
+        },
+        "reseñas": [],
+        "fecha_creacion": "2025-05-30T16:45:00Z"
+    },
+    {
+        "_id": 16,
+        "nombre_completo": {
+        "nombre": "Patricia",
+        "apellido": "Torres"
+        },
+        "alias": "patriciat",
+        "correo": "patricia.t@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1qum35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": true,
+        "monto": 7.50,
+        "nfts": [16]
+        },
+        "reseñas": [15, 16],
+        "fecha_creacion": "2025-05-29T14:10:00Z"
+    },
+    {
+        "_id": 17,
+        "nombre_completo": {
+        "nombre": "Manuel",
+        "apellido": "Domínguez"
+        },
+        "alias": "manueld",
+        "correo": "manuel.d@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1qtm35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": true,
+        "monto": 0.90,
+        "nfts": [17, 18]
+        },
+        "reseñas": [17],
+        "fecha_creacion": "2025-05-28T11:35:00Z"
+    },
+    {
+        "_id": 18,
+        "nombre_completo": {
+        "nombre": "Rosa",
+        "apellido": "Vázquez"
+        },
+        "alias": "rosav",
+        "correo": "rosa.v@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1qsm35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": false,
+        "monto": 0.0,
+        "nfts": []
+        },
+        "reseñas": [],
+        "fecha_creacion": "2025-05-27T09:00:00Z"
+    },
+    {
+        "_id": 19,
+        "nombre_completo": {
+        "nombre": "Alberto",
+        "apellido": "Ramos"
+        },
+        "alias": "albertor",
+        "correo": "alberto.r@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1qrm35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": true,
+        "monto": 4.75,
+        "nfts": [19]
+        },
+        "reseñas": [18, 19],
+        "fecha_creacion": "2025-05-26T16:25:00Z"
+    },
+    {
+        "_id": 20,
+        "nombre_completo": {
+        "nombre": "Teresa",
+        "apellido": "Gil"
+        },
+        "alias": "teresag",
+        "correo": "teresa.g@example.com",
+        "contraseña": "hashed_password_bcrypt",
+        "wallet": {
+        "direccion_billetera": "addr1qqm35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
+        "authkey_nft": true,
+        "monto": 0.10,
+        "nfts": [20, 21]
+        },
+        "reseñas": [20],
+        "fecha_creacion": "2025-05-25T13:50:00Z"
+    }
+]

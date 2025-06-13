@@ -60,7 +60,7 @@
         "apellido": "Martínez"
         },
         "alias": "anam",
-        "correo": "ana.m@example.com",
+        "correo": "ana.m@outlook.com",
         "contraseña": "hashed_password_bcrypt",
         "wallet": {
         "direccion_billetera": "addr1q6m35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
@@ -78,7 +78,7 @@
         "apellido": "Rodríguez"
         },
         "alias": "luisr",
-        "correo": "luis.rod@example.com",
+        "correo": "luis.rod@campuslands.com",
         "contraseña": "hashed_password_bcrypt",
         "wallet": {
         "direccion_billetera": "addr1q5m35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
@@ -96,7 +96,7 @@
         "apellido": "Sánchez"
         },
         "alias": "lauras",
-        "correo": "laura.s@example.com",
+        "correo": "laura.s@linux.com",
         "contraseña": "hashed_password_bcrypt",
         "wallet": {
         "direccion_billetera": "addr1q4m35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",
@@ -114,7 +114,7 @@
         "apellido": "López"
         },
         "alias": "pedrol",
-        "correo": "pedro.l@example.com",
+        "correo": "pedro.l@examplee.com",
         "contraseña": "hashed_password_bcrypt",
         "wallet": {
         "direccion_billetera": "addr1q3m35c6r4cy5gd2jx3hkvxutp2wanjq3np5khvqx07r4ptn4j3c05zep5847zfc8jeaay33j08xtrdr72dtjxkrs7tzqj74cae",

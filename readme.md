@@ -1,5 +1,8 @@
 # 🎬 Taller MongoDB: Expresiones Regulares en un Contexto Real
 
+## Integrantes:
+### David Adolfo Gomez Uribe y Joan Sebastian Omaña Suarez.
+
 ## Proyecto: Plataforma de Streaming con NFTs
 
 Este proyecto simula una **plataforma de streaming** donde los usuarios acceden a contenido audiovisual (películas y series) mediante **NFTs** como mecanismo de suscripción y pago. La base de datos refleja escenarios reales con entidades como usuarios, medios, historial de visualización, facturas y NFTs.

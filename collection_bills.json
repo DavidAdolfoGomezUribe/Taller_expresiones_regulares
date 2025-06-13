@@ -1,0 +1,212 @@
+[
+  {
+    "_id": 1,
+    "cliente_id": 1,
+    "fecha_pago": ISODate("2025-06-01T12:00:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "a3f1c5d7890e4b2fa6d3c8e1b7f4a9c2d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a",
+    "nft_asociado": 1,
+    "estado": "completado"
+  },
+  {
+    "_id": 2,
+    "cliente_id": 2,
+    "fecha_pago": ISODate("2025-06-01T12:01:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "b4e2d6f8901f3c4da7e5b2c9f8a6d3e1b7c9a8e6f4d2b1c0a3e5f7b9c8d6a4f",
+    "nft_asociado": 2,
+    "estado": "completado"
+  },
+  {
+    "_id": 3,
+    "cliente_id": 2,
+    "fecha_pago": ISODate("2025-06-01T12:02:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "c5d3f7a9012e4b3fc6d7a8b9e2c5f1d4a7b8c9e6f3d2b1c0a4e5f7d9b8c6a3f",
+    "nft_asociado": 3,
+    "estado": "completado"
+  },
+  {
+    "_id": 4,
+    "cliente_id": 4,
+    "fecha_pago": ISODate("2025-06-01T12:03:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "d6f4a8b0123e5c4db7e6a9c8f3d1b2e5c8a7f6d4b3c2a1e0f5b7d9c8e6a4f3b",
+    "nft_asociado": 4,
+    "estado": "completado"
+  },
+  {
+    "_id": 5,
+    "cliente_id": 5,
+    "fecha_pago": ISODate("2025-06-01T12:04:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "e7a5b9c1234f6d5ec8a7b9d0f4c2e3a6b9c8d7e5f4c3b2a1e6f8d9c7b5a4f3d",
+    "nft_asociado": 5,
+    "estado": "completado"
+  },
+  {
+    "_id": 6,
+    "cliente_id": 5,
+    "fecha_pago": ISODate("2025-06-01T12:05:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "f8b6c0d2345a7e6fd9b8c0e1f5d3b4c7d0e9a8f6c5b4a3e2f7d9c8b6a5f4e3d",
+    "nft_asociado": 6,
+    "estado": "completado"
+  },
+  {
+    "_id": 7,
+    "cliente_id": 7,
+    "fecha_pago": ISODate("2025-06-01T12:06:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "a9c7d1e3456b8f7ed0c9b1f2e6d4c5b8e1f0a9d7c6b5a4e3f8d9c7b6a5f4e3c",
+    "nft_asociado": 7,
+    "estado": "completado"
+  },
+  {
+    "_id": 8,
+    "cliente_id": 8,
+    "fecha_pago": ISODate("2025-06-01T12:07:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "b0d8e2f4567c9a8fe1d0b2c3f7e5d6b9c2e1a0f8d7c6b5a4e9f7d8c6b4a3f2e",
+    "nft_asociado": 8,
+    "estado": "completado"
+  },
+  {
+    "_id": 9,
+    "cliente_id": 8,
+    "fecha_pago": ISODate("2025-06-01T12:08:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "c1e9f3a5678d0b9fe2e1c3d4f8e6d7c0b3f2a1e9d8c7b6a5f0e8d9c7b5a4f3e",
+    "nft_asociado": 9,
+    "estado": "completado"
+  },
+  {
+    "_id": 10,
+    "cliente_id": 10,
+    "fecha_pago": ISODate("2025-06-01T12:09:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "d2f0a4b6789e1c0fd3f2d4e5f9d7c8b1a4f3b2e0d9c8b7a6e1f0d9c8b6a5f4e3",
+    "nft_asociado": 10,
+    "estado": "completado"
+  },
+  {
+    "_id": 11,
+    "cliente_id": 11,
+    "fecha_pago": ISODate("2025-06-01T12:10:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "e3f1b5c7890f2d1fe4e3f5g6h0e8d9c2a5f4c3b1e0d9c8b7a2e1f0d9c7b6a5f",
+    "nft_asociado": 11,
+    "estado": "completado"
+  },
+  {
+    "_id": 12,
+    "cliente_id": 11,
+    "fecha_pago": ISODate("2025-06-01T12:11:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "f4g2c6d8901g3e2gd5f4h6i7j1f9e0d3b6f5d4c2g1e0f9d8c3g2f1e0d8c7b6a",
+    "nft_asociado": 12,
+    "estado": "completado"
+  },
+  {
+    "_id": 13,
+    "cliente_id": 13,
+    "fecha_pago": ISODate("2025-06-01T12:12:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "a5h3d7e9012h4f3he6g5i7j8k2g0f1e4c7g6e5d3h2f1g0e9h4g3f2e1d9c8b7a",
+    "nft_asociado": 13,
+    "estado": "completado"
+  },
+  {
+    "_id": 14,
+    "cliente_id": 14,
+    "fecha_pago": ISODate("2025-06-01T12:13:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "b6i4e8f0123i5g4if7h6j8k9l3h1g2f5d8h7f6e4i3g2h1i0f5h4g3f2e1d9c8b",
+    "nft_asociado": 14,
+    "estado": "completado"
+  },
+  {
+    "_id": 15,
+    "cliente_id": 14,
+    "fecha_pago": ISODate("2025-06-01T12:14:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "c7j5f9g1234j6h5jg8i7k9l0m4i2h3g6e9i8g7f5j4h3i2j1g6i5h4g3f2e1d0c",
+    "nft_asociado": 15,
+    "estado": "completado"
+  },
+  {
+    "_id": 16,
+    "cliente_id": 16,
+    "fecha_pago": ISODate("2025-06-01T12:15:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "d8k6g0h2345k7i6kh9j8l0m1n5j3i4h7f0j9h8g6k5i4j3k2h7j6i5h4g3f2e1d",
+    "nft_asociado": 16,
+    "estado": "completado"
+  },
+  {
+    "_id": 17,
+    "cliente_id": 17,
+    "fecha_pago": ISODate("2025-06-01T12:16:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "e9l7h1i3456l8j7li0k9m1n2o6k4j5i8g1k0i9h7l6j5k4l3i8k7j6i5h4g3f2e",
+    "nft_asociado": 17,
+    "estado": "completado"
+  },
+  {
+    "_id": 18,
+    "cliente_id": 17,
+    "fecha_pago": ISODate("2025-06-01T12:17:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "f0m8i2j4567m9k8mj1l0n2o3p7l5k6j9h2l1j0i8m7k6l5m4j9l8k7j6i5h4g3f",
+    "nft_asociado": 18,
+    "estado": "completado"
+  },
+  {
+    "_id": 19,
+    "cliente_id": 19,
+    "fecha_pago": ISODate("2025-06-01T12:18:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "a1n9j3k5678n0l9nk2m1o3p4q8m6l7k0i3m2k1j9n8l7m6n5k0m9l8k7j6i5h4g3f",
+    "nft_asociado": 19,
+    "estado": "completado"
+  },
+  {
+    "_id": 20,
+    "cliente_id": 20,
+    "fecha_pago": ISODate("2025-06-01T12:19:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "b2o0k4l6789o1m0ol3n2p4q5r9n7m8l1j4n3l2k0o9m8n7o6l1n0m9l8k7j6i5h4g",
+    "nft_asociado": 20,
+    "estado": "completado"
+  },
+  {
+    "_id": 21,
+    "cliente_id": 20,
+    "fecha_pago": ISODate("2025-06-01T12:20:00Z"),
+    "monto": 9.99,
+    "metodo_pago": "crypto",
+    "transaccion_id": "c3p1l5m7890p2n1pm4o3q5r6s0o8m9n2k5o4m3l1p0n9o8p7m2o1p0n9l8k7j6i5h",
+    "nft_asociado": 21,
+    "estado": "completado"
+  }
+]

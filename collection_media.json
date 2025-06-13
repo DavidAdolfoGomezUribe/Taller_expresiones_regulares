@@ -1,0 +1,433 @@
+[
+    {
+        "_id": "1",
+        "titulo": "Inception",
+        "descripcion": "A mind-bending thriller...",
+        "generos": [1, 6],
+        "año_lanzamiento": 2010,
+        "duracion": 148,
+        "language": [2, 1],
+        "subtitulos": [1, 2],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/inception.jpg"
+    },
+    {
+        "_id": "2",
+        "titulo": "Chrono City",
+        "descripcion": "Una metrópolis atrapada entre dimensiones temporales.",
+        "generos": [1, 7, 4],
+        "año_lanzamiento": 2022,
+        "duracion": 132,
+        "language": [2, 4],
+        "subtitulos": [2, 4],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/chrono-city.jpg"
+    },
+    {
+        "_id": "3",
+        "titulo": "El Bosque Olvidado",
+        "descripcion": "Una aventura mística en un bosque lleno de secretos.",
+        "generos": [2, 12],
+        "año_lanzamiento": 2018,
+        "duracion": 115,
+        "language": [1, 3],
+        "subtitulos": [1, 3],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/bosque-olvidado.jpg"
+    },
+    {
+        "_id": "4",
+        "titulo": "Circuito Mortal",
+        "descripcion": "Competencias de vida o muerte en un mundo cyberpunk.",
+        "generos": [7, 6],
+        "año_lanzamiento": 2021,
+        "duracion": 125,
+        "language": [2, 6],
+        "subtitulos": [2, 7],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/circuito-mortal.jpg"
+    },
+    {
+        "_id": "5",
+        "titulo": "Sombras del Tiempo",
+        "descripcion": "Un misterio histórico que atraviesa siglos.",
+        "generos": [10, 4],
+        "año_lanzamiento": 2019,
+        "duracion": 140,
+        "language": [1, 2],
+        "subtitulos": [1, 2],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/sombras-tiempo.jpg"
+    },
+    {
+        "_id": "6",
+        "titulo": "Aurora de Hierro",
+        "descripcion": "Una guerra épica en un mundo steampunk.",
+        "generos": [8, 12],
+        "año_lanzamiento": 2016,
+        "duracion": 138,
+        "language": [2, 5],
+        "subtitulos": [2, 10],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/aurora-hierro.jpg"
+    },
+    {
+        "_id": "7",
+        "titulo": "Fragmentos del Alma",
+        "descripcion": "La vida de un artista contada en retazos mágicos.",
+        "generos": [11, 15],
+        "año_lanzamiento": 2020,
+        "duracion": 110,
+        "language": [1, 3],
+        "subtitulos": [1, 3],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/fragmentos-alma.jpg"
+    },
+    {
+        "_id": "8",
+        "titulo": "Código Fantasma",
+        "descripcion": "Un hacker descubre una IA que amenaza el mundo.",
+        "generos": [1, 6],
+        "año_lanzamiento": 2023,
+        "duracion": 128,
+        "language": [2, 7],
+        "subtitulos": [2, 5],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/codigo-fantasma.jpg"
+    },
+    {
+        "_id": "9",
+        "titulo": "Destino Lunar",
+        "descripcion": "Una historia romántica entre astronautas.",
+        "generos": [1, 5],
+        "año_lanzamiento": 2015,
+        "duracion": 124,
+        "language": [1, 2],
+        "subtitulos": [1, 2],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/destino-lunar.jpg"
+    },
+    {
+        "_id": "10",
+        "titulo": "Eco del Abismo",
+        "descripcion": "Una criatura acecha los sueños de un pueblo aislado.",
+        "generos": [3, 4],
+        "año_lanzamiento": 2014,
+        "duracion": 101,
+        "language": [1, 9],
+        "subtitulos": [1, 8],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/eco-abismo.jpg"
+    },
+    {
+        "_id": "11",
+        "titulo": "La Última Resistencia",
+        "descripcion": "Una rebelión contra un régimen distópico.",
+        "generos": [9, 12],
+        "año_lanzamiento": 2021,
+        "duracion": 142,
+        "language": [2, 6],
+        "subtitulos": [2, 7],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/ultima-resistencia.jpg"
+    },
+    {
+        "_id": "12",
+        "titulo": "Reflejo Roto",
+        "descripcion": "Una adolescente descubre su doble en otra realidad.",
+        "generos": [14, 2],
+        "año_lanzamiento": 2020,
+        "duracion": 108,
+        "language": [1, 2],
+        "subtitulos": [1, 2],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/reflejo-roto.jpg"
+    },
+    {
+        "_id": "13",
+        "titulo": "Niebla Carmesí",
+        "descripcion": "Detectives atrapados en una ciudad corrupta.",
+        "generos": [13, 6],
+        "año_lanzamiento": 2017,
+        "duracion": 119,
+        "language": [2, 1],
+        "subtitulos": [2, 1],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/niebla-carmesi.jpg"
+    },
+    {
+        "_id": "14",
+        "titulo": "Sueños de Acero",
+        "descripcion": "La construcción de un imperio ferroviario en el siglo XIX.",
+        "generos": [10, 11],
+        "año_lanzamiento": 2013,
+        "duracion": 150,
+        "language": [2, 4],
+        "subtitulos": [2, 4],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/suenos-acero.jpg"
+    },
+    {
+        "_id": "15",
+        "titulo": "La Casa del Río",
+        "descripcion": "Una historia de amor que trasciende generaciones.",
+        "generos": [5, 15],
+        "año_lanzamiento": 2018,
+        "duracion": 117,
+        "language": [1, 5],
+        "subtitulos": [1, 10],
+        "tipo": "pelicula",
+        "portada": "https://cdn.tuapp.com/casa-rio.jpg"
+    },
+    {
+        "_id": 16,
+        "titulo": "Stranger Things",
+        "descripcion": "Niños, monstruos y los 80...",
+        "generos": [1, 2],
+        "año_lanzamiento": 2016,
+        "tipo": "serie",
+        "portada": "https://cdn.tuapp.com/strangerthings.jpg",
+        "language": [1, 2],
+        "subtitulos": [1, 2],
+        "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+            {
+                "titulo": "Capítulo 1: Desaparecido",
+                "descripcion": "Un niño desaparece misteriosamente.",
+                "duracion": 50,
+                "video_url": "https://cdn.tuapp.com/st-s1e1.mp4"
+            },
+            {
+                "titulo": "Capítulo 2: Luces extrañas",
+                "descripcion": "Joyce empieza a ver señales.",
+                "duracion": 52,
+                "video_url": "https://cdn.tuapp.com/st-s1e2.mp4"
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "_id": 17,
+        "titulo": "Eco del Futuro",
+        "descripcion": "Viajes en el tiempo, decisiones imposibles.",
+        "generos": [1, 4],
+        "año_lanzamiento": 2021,
+        "tipo": "serie",
+        "portada": "https://cdn.tuapp.com/eco-futuro.jpg",
+        "language": [2, 4],
+        "subtitulos": [2, 4],
+        "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+            {
+                "titulo": "El bucle",
+                "descripcion": "Un experimento crea una paradoja.",
+                "duracion": 47,
+                "video_url": "https://cdn.tuapp.com/eco-s1e1.mp4"
+            },
+            {
+                "titulo": "Sin tiempo",
+                "descripcion": "El equipo queda atrapado fuera del tiempo.",
+                "duracion": 49,
+                "video_url": "https://cdn.tuapp.com/eco-s1e2.mp4"
+            }
+            ]
+        },
+        {
+            "numero": 2,
+            "episodios": [
+            {
+                "titulo": "Nuevas líneas",
+                "descripcion": "El futuro no es lo que esperaban.",
+                "duracion": 50,
+                "video_url": "https://cdn.tuapp.com/eco-s2e1.mp4"
+            },
+            {
+                "titulo": "El reinicio",
+                "descripcion": "Todo empieza de nuevo... o no.",
+                "duracion": 51,
+                "video_url": "https://cdn.tuapp.com/eco-s2e2.mp4"
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "_id": 18,
+        "titulo": "Academia Estelar",
+        "descripcion": "Una escuela de exploradores del universo.",
+        "generos": [2, 12],
+        "año_lanzamiento": 2019,
+        "tipo": "serie",
+        "portada": "https://cdn.tuapp.com/academia-estelar.jpg",
+        "language": [1, 3],
+        "subtitulos": [1, 3],
+        "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+            {
+                "titulo": "Bienvenidos a órbita",
+                "descripcion": "Los estudiantes llegan a la academia espacial.",
+                "duracion": 42,
+                "video_url": "https://cdn.tuapp.com/ae-s1e1.mp4"
+            },
+            {
+                "titulo": "Zona prohibida",
+                "descripcion": "Curiosidad por un sector no autorizado.",
+                "duracion": 45,
+                "video_url": "https://cdn.tuapp.com/ae-s1e2.mp4"
+            }
+            ]
+        },
+        {
+            "numero": 2,
+            "episodios": [
+            {
+                "titulo": "Colisión estelar",
+                "descripcion": "Una misión sale mal.",
+                "duracion": 47,
+                "video_url": "https://cdn.tuapp.com/ae-s2e1.mp4"
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "_id": 19,
+        "titulo": "Ríos de Sangre",
+        "descripcion": "Detectives, asesinatos y secretos del pasado.",
+        "generos": [4, 6],
+        "año_lanzamiento": 2020,
+        "tipo": "serie",
+        "portada": "https://cdn.tuapp.com/rios-sangre.jpg",
+        "language": [1, 2],
+        "subtitulos": [1, 2],
+        "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+            {
+                "titulo": "El crimen perfecto",
+                "descripcion": "Un asesinato sin pistas evidentes.",
+                "duracion": 48,
+                "video_url": "https://cdn.tuapp.com/rs-s1e1.mp4"
+            },
+            {
+                "titulo": "Silencio mortal",
+                "descripcion": "Las piezas del rompecabezas comienzan a encajar.",
+                "duracion": 50,
+                "video_url": "https://cdn.tuapp.com/rs-s1e2.mp4"
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "_id": 20,
+        "titulo": "Sueños Fragmentados",
+        "descripcion": "Un viaje por el inconsciente colectivo.",
+        "generos": [15, 14],
+        "año_lanzamiento": 2018,
+        "tipo": "serie",
+        "portada": "https://cdn.tuapp.com/suenos-fragmentados.jpg",
+        "language": [1, 5],
+        "subtitulos": [1, 10],
+        "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+            {
+                "titulo": "El Espejo",
+                "descripcion": "Una mujer ve un futuro alterno en su reflejo.",
+                "duracion": 43,
+                "video_url": "https://cdn.tuapp.com/sf-s1e1.mp4"
+            },
+            {
+                "titulo": "Tierra Hueca",
+                "descripcion": "Un sueño compartido muestra un mundo subterráneo.",
+                "duracion": 44,
+                "video_url": "https://cdn.tuapp.com/sf-s1e2.mp4"
+            },
+            {
+                "titulo": "Mar de recuerdos",
+                "descripcion": "Un anciano revuelve memorias perdidas.",
+                "duracion": 47,
+                "video_url": "https://cdn.tuapp.com/sf-s1e3.mp4"
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "_id": 21,
+        "titulo": "Distrito Omega",
+        "descripcion": "Una detective en una ciudad cyberpunk distópica.",
+        "generos": [7, 13],
+        "año_lanzamiento": 2022,
+        "tipo": "serie",
+        "portada": "https://cdn.tuapp.com/distrito-omega.jpg",
+        "language": [2, 7],
+        "subtitulos": [2, 5],
+        "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+            {
+                "titulo": "Circuito roto",
+                "descripcion": "Un asesinato relacionado con IA.",
+                "duracion": 46,
+                "video_url": "https://cdn.tuapp.com/do-s1e1.mp4"
+            },
+            {
+                "titulo": "Zona fantasma",
+                "descripcion": "Encuentran un servidor con conciencia.",
+                "duracion": 49,
+                "video_url": "https://cdn.tuapp.com/do-s1e2.mp4"
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "_id": 22,
+        "titulo": "Relatos del Vapor",
+        "descripcion": "Historias independientes en un universo steampunk.",
+        "generos": [8, 10],
+        "año_lanzamiento": 2017,
+        "tipo": "serie",
+        "portada": "https://cdn.tuapp.com/relatos-vapor.jpg",
+        "language": [2, 6],
+        "subtitulos": [2, 7],
+        "temporadas": [
+        {
+            "numero": 1,
+            "episodios": [
+            {
+                "titulo": "Motor de Éter",
+                "descripcion": "Una ciudad flotante se alimenta de vapor mágico.",
+                "duracion": 51,
+                "video_url": "https://cdn.tuapp.com/rv-s1e1.mp4"
+            },
+            {
+                "titulo": "El forjador",
+                "descripcion": "Un artesano crea armas con alma.",
+                "duracion": 53,
+                "video_url": "https://cdn.tuapp.com/rv-s1e2.mp4"
+            },
+            {
+                "titulo": "La rebelión de cobre",
+                "descripcion": "Los autómatas se levantan contra sus creadores.",
+                "duracion": 50,
+                "video_url": "https://cdn.tuapp.com/rv-s1e3.mp4"
+            }
+            ]
+        }
+        ]
+    }
+]
+

@@ -1,0 +1,296 @@
+[
+    {
+        "_id": 1,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft1.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1z0pgpz0pw65t94zrafqszzp228svem2lzgtmmj"
+    },
+    {
+        "_id": 2,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft2.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1q9fjd9fj39fj39fj39fj39fj39fj39fj39fj39f"
+    },
+    {
+        "_id": 3,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft3.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1r8tjd9fj39fj39fj39fj39fj39fj39fj39fj39g"
+    },
+    {
+        "_id": 4,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft4.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1s7ujd9fj39fj39fj39fj39fj39fj39fj39fj39h"
+    },
+    {
+        "_id": 5,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft5.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1t6kjd9fj39fj39fj39fj39fj39fj39fj39fj39i"
+    },
+    {
+        "_id": 6,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft6.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1u5ljd9fj39fj39fj39fj39fj39fj39fj39fj39j"
+    },
+    {
+        "_id": 7,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft7.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1v4mjd9fj39fj39fj39fj39fj39fj39fj39fj39k"
+    },
+    {
+        "_id": 8,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft8.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1w3njd9fj39fj39fj39fj39fj39fj39fj39fj39l"
+    },
+    {
+        "_id": 9,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft9.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1x2ojd9fj39fj39fj39fj39fj39fj39fj39fj39m"
+    },
+    {
+        "_id": 10,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft10.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1y1pjd9fj39fj39fj39fj39fj39fj39fj39fj39n"
+    },
+    {
+        "_id": 11,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft11.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1z0qjd9fj39fj39fj39fj39fj39fj39fj39fj39o"
+    },
+    {
+        "_id": 12,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft12.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1a9rjd9fj39fj39fj39fj39fj39fj39fj39fj39p"
+    },
+    {
+        "_id": 13,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft13.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1b8sjd9fj39fj39fj39fj39fj39fj39fj39fj39q"
+    },
+    {
+        "_id": 14,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft14.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1c7tjd9fj39fj39fj39fj39fj39fj39fj39fj39r"
+    },
+    {
+        "_id": 15,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft15.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1d6ujd9fj39fj39fj39fj39fj39fj39fj39fj39s"
+    },
+    {
+        "_id": 16,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft16.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1e5vjd9fj39fj39fj39fj39fj39fj39fj39fj39t"
+    },
+    {
+        "_id": 17,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft17.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1f4wjd9fj39fj39fj39fj39fj39fj39fj39fj39u"
+    },
+    {
+        "_id": 18,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft18.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1g3xjd9fj39fj39fj39fj39fj39fj39fj39fj39v"
+    },
+    {
+        "_id": 19,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft19.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1h2yjd9fj39fj39fj39fj39fj39fj39fj39fj39w"
+    },
+    {
+        "_id": 20,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft20.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1i1zjd9fj39fj39fj39fj39fj39fj39fj39fj39x"
+    },
+    {
+        "_id": 21,
+        "nombre": "Acceso mensual",
+        "descripcion": "Acceso completo por 30 días",
+        "imagen": "https://cdn.tuapp.com/nfts/nft21.png",
+        "fecha_emision": "2025-06-01T00:00:00Z",
+        "valido_hasta": "2025-07-01T00:00:00Z",
+        "metadatos": {
+        "acceso": true,
+        "tipo": "mensual"
+        },
+        "policy_id": "e760308d0c14096ff479ec5f2495455505feb790503903fe976c4fd2",
+        "fingerprint": "asset1j0ajd9fj39fj39fj39fj39fj39fj39fj39fj39y"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "gen_1",
+        "nombre": "Ciencia Ficción"
+    },
+    {
+        "_id": "gen_2",
+        "nombre": "Fantasía"
+    },
+    {
+        "_id": "gen_3",
+        "nombre": "Terror"
+    },
+    {
+        "_id": "gen_4",
+        "nombre": "Misterio"
+    },
+    {
+        "_id": "gen_5",
+        "nombre": "Romance"
+    },
+    {
+        "_id": "gen_6",
+        "nombre": "Thriller"
+    },
+    {
+        "_id": "gen_7",
+        "nombre": "Cyberpunk"
+    },
+    {
+        "_id": "gen_8",
+        "nombre": "Steampunk"
+    },
+    {
+        "_id": "gen_9",
+        "nombre": "Distopía"
+    },
+    {
+        "_id": "gen_10",
+        "nombre": "Histórico"
+    },
+    {
+        "_id": "gen_11",
+        "nombre": "Biografía"
+    },
+    {
+        "_id": "gen_12",
+        "nombre": "Aventura"
+    },
+    {
+        "_id": "gen_13",
+        "nombre": "Noir"
+    },
+    {
+        "_id": "gen_14",
+        "nombre": "Juvenil"
+    },
+    {
+        "_id": "gen_15",
+        "nombre": "Realismo Mágico"
+    }
+]
